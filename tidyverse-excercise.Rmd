@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Tidyverse
+## Tidyverse 2
 
 - Load packages
   - we need tidyverse
